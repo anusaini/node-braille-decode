@@ -1,0 +1,20 @@
+{
+  "name": "node-braille-decode",
+  "version": "1.0.0",
+  "description": "Decodes braille to string - node module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anusaini/node-braille-decode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anusaini/node-braille-decode/issues"
+  },
+  "homepage": "https://github.com/anusaini/node-braille-decode#readme"
+}
